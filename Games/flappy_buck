@@ -1,0 +1,11 @@
+features:
+  - same game mechanics as flappy bird  
+    - tap screen = character goes up on the screen
+    - character is constantly falling -> tapping to keep character from crashing down
+    - hiting a pipe = fail
+    - charcter doesn't move horizontally, pipes coming from top and bottom of the
+        screen slide to the direction of the character for the visual of moving
+  - differend 'bird' types / skins
+    - character can encounter a skin mid-game -> auto changes charaacter's skin
+  - background - campus or custom options
+  - to win the player must fly between 100 sets of pipes/ obstacles
