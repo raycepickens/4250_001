@@ -1,0 +1,41 @@
+Anthony Friday
+Oscar Campos
+Christian Rock
+Scotty Snyder
+
+Definitions for SE lifecycle
+
+1. Requirements: Speaking with the client to determine what they want and what the capabilities of their product should be
+  A. Gather time, scope, and difficulty
+  B. Determining priority by defining mandatory/optional, and non-functional/functional features
+  C. Use the client's initial description of the product to determine clarifying questions. 
+    a. what harware is available?
+    b. is there a programing language constraint?
+    c. does this have to utilize any internal API products?
+  D. Understand the problem to be solved, why its a problem, and the value added once the problem is solved. 
+    
+  
+2. Design: deciding on structure and create a plan to implement gathered requirements
+  A. Brainstorm
+  B. determine structure/outline
+  C. Technology
+  D. Determine "Definition of Done" for each phase/step
+  
+
+3. Implemtation: using output from design phase to develope a cohesive program
+  A. Coding/Scripts
+  B. Hardware
+  C. Consistantly referring to Requirements to ensure you stay on task
+
+4. Test: testing to see if output of implementation coorelates to the output of requirements
+  A. Test cases and Test plans
+  B. Mapping solution to requirements
+  
+
+5. Release: Distributing the product to the client for dispersal to userbase after test complete
+  
+
+6. Support/Maintanence: Fixing bugs, adding features, maintaining stability
+
+7. Upgrades/Updates: changes of any size that result in a new (or moodified version to existing) behavior or feature
+
