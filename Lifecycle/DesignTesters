@@ -1,0 +1,51 @@
+Team Members: Reece, Oaks, Campbell, Farmer, Mink
+
+Requirements: Asking clarifying questions so that all intended functionality is captured.
+Design: Initial review of requirements and brainstorming of methods to implement functionality.
+Implementation: The actual coding of functionality to match the design plan.
+Testing: Using test cases to ensure that all requirements are met.
+Release: Pushing of product once it is finished and has been tested.
+Support/Maintenance: Fixes of released code bugs/functionality that did not completely meet the requirements. 
+Upgrades/Updates: Large scale changes that are beyond the scope of the initial requirements and add functionality after the release. 
+
+Key Aspects of the Requirements Phase:
+- Asking clarifying questions while meeting with the customer.
+- An understanding of why the requirements exist if possible.
+- Ensuring that as many requirements are known as possible.
+- In which order the requirements have to be completed (are certain requirements a prerequisite for others).
+- Categorization of mandatory and optional requirements.
+- Categorization of types of requirements (functional, performance, etc.)
+- A Software Requirements Specification document.
+- A traceability matrix.
+- Knowledge of contact points regarding status updates, acceptance, etc.
+
+Key Aspects of the Design Phase:
+- Knowledge of how to implement the requirements.
+- Brainstorming of ideas for the methods of implementing the functionality.
+- Establishing Priorities for the tasks that need to be completed.
+- Creation of design documents that map to the requirements like UML diagrams, traceability matrices, etc.
+- Constraints set for the Implementation phase about how much work is expected to be done in what amount of time by what people, etc.
+
+Key Aspects of the Implementation Phase:
+- Actual coding and creation of the project solution.
+- Unit tests and small test cases for small internal bugs.
+- Results in a functional version of the project that can then be tested to ensure full functionality and meeting of requirements.
+- Usually more people involved than in the previous phases.
+- Self documented code through comments.
+- Completion of the tasks in the design phase by an order of priority.
+- Documentation of code and functionality in an additional document (like a README file).
+
+Key Aspects of the Testing Phase:
+- Usually done by a different team than the implementation team (call Quality Assurance).
+- Ensures that the project solution meets all requirements and functionality.
+- Larger tests that cover the entire project. 
+- Additional tests like user acceptance and approval.
+
+Key Aspects of the Release Phase:
+- Delivery of a finished product that meets all requirements to the customer.
+
+Key Aspects of the Support/Maintenance Phase:
+- Small bug fixes and patches that do not add functionality. 
+
+Key Aspects of the Upgrades/Updates Phase:
+- Additional features that are added to the product outside of the initial scope.
