@@ -1,0 +1,27 @@
+  MEMBERS:
+  Nathaniel Barton, Rayce Pickens, Julio Chavez
+
+  SOFTWARE LEFECYCLE DEFINITIONS
+
+    REQUIREMENTS:
+      Creating a formal document of acceptance criteria that meet customer expectations
+      ATTRIBUTES:
+        lorem ipsum
+      
+    DESIGN:
+      Deciding, in detail, HOW to implement the established requirements
+      
+    IMPLEMENTATION:
+      Translating design documents into functional modules and/or software
+      
+    TEST:
+      Verifies functionality of implementation; requisite adjustments are determined here
+      
+    RELEASE:
+      Staging and subsequently deploying the software solution
+
+    SUPPORT:
+      Implementing changes as needed to maintain the base functionality of the software
+      
+    UPGRADE:
+      Implementing new functionality to bolster or expand the capability of the original software
