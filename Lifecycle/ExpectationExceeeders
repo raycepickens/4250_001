@@ -44,7 +44,16 @@ TESTING
 
     SUPPORT:
       Implementing changes as needed to maintain the base functionality of the software
-      
+
+      Maintenance
+  * Bug fixes
+  * Release Notes
+  * Monitoring ( I use https://www.splunk.com/?_gl=1*nvw3of*_gcl_au*MTk0OTg4NjEwMS4xNzI2NTk1OTM1*FPAU*MTk0OTg4NjEwMS4xNzI2NTk1OTM1*_ga*MTQyNDg5MDY2MS4xNzI2NTk1OTM1*_ga_5EPM2P39FV*MTcyNjU5NTkzNS4xLjAuMTcyNjU5NTkzNS4wLjAuMjE0NDk4ODI1Mw..*_fplc*Q3JwUFNqWUJCJTJCMzlHR2glMkYlMkJWMVJTTEttdVgxMXdUMjNkeGgyTSUyQmlnODklMkJqbG14bWNEdUxTaDZBRUFRM3o5Q2x3NWE4NXh5ZFIlMkJVQWRFOFJDMFlyWm9VS0VFM3ZEZDVXZ1l4cGREY2JWcWc1a2MyeCUyRmxPSWFMcUtFY2tLaUElM0QlM0Q. at work)
+
+Update / Upgrade
+  * Enhance the initial release
+  * New features
+
     UPGRADE:
       Implementing new functionality to bolster or expand the capability of the original software
 
