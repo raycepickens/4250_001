@@ -1,3 +1,4 @@
+
   MEMBERS:
   Nathaniel Barton, Rayce Pickens, Julio Chavez
 
@@ -23,7 +24,18 @@
     IMPLEMENTATION:
       Translating design documents into functional modules and/or software
       
-      
+      IMPLEMENTATION
+  * Begin building at unit level.
+  * Create scaffolding 
+  * mapping code to design
+  * performing unit and subsystems tests as approrpriate 
+
+TESTING
+  * Test Cases
+  * Test Documents
+  * Make sure code is working as expected
+  * Try to find ways to break code 
+  
     TEST:
       Verifies functionality of implementation; requisite adjustments are determined here
       
@@ -35,3 +47,4 @@
       
     UPGRADE:
       Implementing new functionality to bolster or expand the capability of the original software
+
