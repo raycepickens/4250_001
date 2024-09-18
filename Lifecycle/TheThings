@@ -1,0 +1,155 @@
+Lifecycle ICE
+Team “The Things”
+Pendleton, Davis, Melchor, Ludwig, and Bolick
+•	Requirements
+o	Zoe Pendleton
+	Single Idea statements
+	Absolutely need for function or look
+	Each requirement is a problem to be solved
+o	Ismael Melchor
+	Who is it for
+	Why are we building it
+	When do we want it by
+	What are we building/What does it do
+o	Kevin Davis
+	Concise
+	Outcome
+	Outcome must be functional
+o	Chris Bolick
+	Some are Hidden
+	Work to narrow them Down
+	Need to be accurate
+	“It depends”
+o	Cliff Ludwig
+	Function – What it must do
+	Non-function – What are the obstacles
+	“What, not how” – We are identifying problems, not solving them.
+•	Design
+o	Zoe Pendleton
+	Visualizations and diagrams
+	When you do notes and brainstorming
+	Think of and ask clarifying questions
+o	Ismael Melchor
+	Appealing design
+	Inclusive design
+	Caters to accessibility
+	Must be engaging
+o	Kevin Davis
+	Visual
+	Relational
+	Model of release
+o	Chris Bolick
+	Math requirement
+	Ensure cohesiveness in group
+	Models/visualizations
+o	Cliff Ludwig
+	How it…
+•	Looks
+•	Feels
+•	Functions
+•	Implementation
+o	Zoe Pendleton
+	Follow plans made in design phase
+	Longest phase in cycle
+	Minor debugging
+o	Ismael Melchor
+	Code creation
+	Documentation
+	Readability
+o	Kevin Davis
+	Creation
+	Code
+	Backbone
+o	Chris Bolick
+	Translate design to code
+	Minor Testing
+	Deal with unexpected issues
+o	Cliff Ludwig
+	Doing the thing
+	Coding
+	Creating
+•	Test
+o	Zoe Pendleton
+	Unit Testing
+	May result in re-design or re-implementation
+	May require multiple sets of eyes
+o	Ismael Melchor
+	Is it scalable?
+	Is it compatible with other stuff?
+	Is it prone to errors?
+o	Kevin Davis
+	Does it produce the right output?
+	Does it compile?
+	Does it work?
+o	Chris Bolick
+	Find new Issues
+	Another round of problem solving
+	Ensure aspects work on their own and as a whole
+o	Cliff Ludwig
+	Quality Assurance
+	Does it work?
+	Iteration
+•	Release
+o	Zoe Pendleton
+	We have deployment
+	Might be a bigger cost to company
+	First round of customer or user/client feedback
+o	Ismael Melchor
+	Was it what was promised?
+	Was it what they wanted?
+	Does the user like it?
+o	Kevin Davis
+	Deployment
+	Client
+	Feedback
+o	Chris Bolick
+	Make Code Public
+	Final Touches
+	User Feedback
+o	Cliff Ludwig
+	Delivering to end user/customer
+	Observation and monitoring
+	Feedback Loop initializer
+•	Support/Maintenance
+o	Zoe Pendleton
+	May introduce helpdesk roles
+	Requires constant feedback
+	Small patch releases
+o	Ismael Melchor
+	Fix bug
+	Find Bug
+	Look out for bug
+o	Kevin Davis
+	Takes feedback
+	Debugs
+	Makes Functionally Better
+o	Chris Bolick
+	Take in feedback
+	Apply feedback
+	Bug Fix
+o	Cliff Ludwig
+	Small Fixes
+	Course Corrections
+	Data Collection
+•	Upgrades and Updates
+o	Zoe Pendleton
+	New features
+	Major Bug Fixes
+	Also Based on feedback
+o	Ismael Melchor
+	Adding On
+	Improving
+	Version
+o	Kevin Davis
+	New features
+	Based on client/user feedback
+	Faster
+o	Chris Bolick
+	Major Changes
+	Versions
+	Let program go
+o	Cliff Ludwig
+	New and Improved
+	Big fixes
+	Major Revisions
+

@@ -1,4 +1,30 @@
-IMPLEMENTATION
+
+  MEMBERS:
+  Nathaniel Barton, Rayce Pickens, Julio Chavez
+
+  SOFTWARE LEFECYCLE DEFINITIONS
+
+    REQUIREMENTS:
+      Creating a formal document of acceptance criteria that meet customer expectations
+      ATTRIBUTES:
+        * Address all high-level requirements and implied dependencies
+        * Decide on mandatory vs optional requirements
+        * Meet initial cutomer specifications
+        * Decide on functional vs non-functional requirements
+        * Not static; may need adjustment depending on external factors
+        * Decide upon tools and programming languages of the project
+      
+    DESIGN:
+      Deciding, in detail, HOW to implement the established requirements
+      ATTRIBUTES:
+        * Map key elements to requirements
+        * Use formal modeling schema where appropriate (UML, ERD, flowcharts, etc)
+        * Define custom modeling schema where appropriate
+      
+    IMPLEMENTATION:
+      Translating design documents into functional modules and/or software
+      
+      IMPLEMENTATION
   * Begin building at unit level.
   * Create scaffolding 
   * mapping code to design
@@ -9,3 +35,16 @@ TESTING
   * Test Documents
   * Make sure code is working as expected
   * Try to find ways to break code 
+  
+    TEST:
+      Verifies functionality of implementation; requisite adjustments are determined here
+      
+    RELEASE:
+      Staging and subsequently deploying the software solution
+
+    SUPPORT:
+      Implementing changes as needed to maintain the base functionality of the software
+      
+    UPGRADE:
+      Implementing new functionality to bolster or expand the capability of the original software
+
