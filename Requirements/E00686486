@@ -1,0 +1,21 @@
+Flappy Buc Reqs
+
+must have tap to interact feature
+can have custom background
+players win after passing through 100 pipes
+player fails when the playable character touches a pipe (obstacle)
+character will continuously fall in place with gravity 
+tapping interaction allows character to fly upwards
+        1 tap = 1 flap of wings upward
+player failts if the character falls off the bottom of the screen
+avatar doesn't move horizontally, only vertically by falling and flying
+pipes slide thorugh the screen from the right side of the screen
+pipes are attactched to the top and bottom of the screen
+pipes exit through the left side of the screen, gives illusion of character flying forward when 'stil' obstacles are moving past them
+
+
+Wordle
+
+
+
+Roulette 
