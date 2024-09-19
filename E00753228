@@ -24,3 +24,15 @@ Food Game
 9. Must have some way of eliminating certain options upfront 
 10. May have other fun graphics
 
+Wordle
+1. Must have a target word 
+2. Must let users enter a 4 letter guess 
+3. Must retain correct letters 
+4. Must disregard incorrect letters 
+5. Must indiciate correct letters in wrong place
+6. Must have a limit of guesses
+7. Target word must change often
+8. May identify letters through colors
+9. May have background music 
+10. May have background graphics
+
