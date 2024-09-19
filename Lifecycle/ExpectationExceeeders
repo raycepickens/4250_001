@@ -1,0 +1,59 @@
+
+  MEMBERS:
+  Nathaniel Barton, Rayce Pickens, Julio Chavez
+
+  SOFTWARE LEFECYCLE DEFINITIONS
+
+    REQUIREMENTS:
+      Creating a formal document of acceptance criteria that meet customer expectations
+      ATTRIBUTES:
+        * Address all high-level requirements and implied dependencies
+        * Decide on mandatory vs optional requirements
+        * Meet initial cutomer specifications
+        * Decide on functional vs non-functional requirements
+        * Not static; may need adjustment depending on external factors
+        * Decide upon tools and programming languages of the project
+      
+    DESIGN:
+      Deciding, in detail, HOW to implement the established requirements
+      ATTRIBUTES:
+        * Map key elements to requirements
+        * Use formal modeling schema where appropriate (UML, ERD, flowcharts, etc)
+        * Define custom modeling schema where appropriate
+      
+    IMPLEMENTATION:
+      Translating design documents into functional modules and/or software
+      
+      IMPLEMENTATION
+  * Begin building at unit level.
+  * Create scaffolding 
+  * mapping code to design
+  * performing unit and subsystems tests as approrpriate 
+
+TESTING
+  * Test Cases
+  * Test Documents
+  * Make sure code is working as expected
+  * Try to find ways to break code 
+  
+    TEST:
+      Verifies functionality of implementation; requisite adjustments are determined here
+      
+    RELEASE:
+      Staging and subsequently deploying the software solution
+
+    SUPPORT:
+      Implementing changes as needed to maintain the base functionality of the software
+
+      Maintenance
+  * Bug fixes
+  * Release Notes
+  * Monitoring ( I use https://www.splunk.com/?_gl=1*nvw3of*_gcl_au*MTk0OTg4NjEwMS4xNzI2NTk1OTM1*FPAU*MTk0OTg4NjEwMS4xNzI2NTk1OTM1*_ga*MTQyNDg5MDY2MS4xNzI2NTk1OTM1*_ga_5EPM2P39FV*MTcyNjU5NTkzNS4xLjAuMTcyNjU5NTkzNS4wLjAuMjE0NDk4ODI1Mw..*_fplc*Q3JwUFNqWUJCJTJCMzlHR2glMkYlMkJWMVJTTEttdVgxMXdUMjNkeGgyTSUyQmlnODklMkJqbG14bWNEdUxTaDZBRUFRM3o5Q2x3NWE4NXh5ZFIlMkJVQWRFOFJDMFlyWm9VS0VFM3ZEZDVXZ1l4cGREY2JWcWc1a2MyeCUyRmxPSWFMcUtFY2tLaUElM0QlM0Q. at work)
+
+Update / Upgrade
+  * Enhance the initial release
+  * New features
+
+    UPGRADE:
+      Implementing new functionality to bolster or expand the capability of the original software
+
