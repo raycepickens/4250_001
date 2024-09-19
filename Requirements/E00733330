@@ -1,0 +1,44 @@
+Clifford Ludwig
+E00733330
+
+•	Functional Requirements (FR): Describe what the software must do.
+•	Non-Functional Requirements (NFR): Describe the conditions under which the software must operate or qualities that the software must have.
+Flappy Buck (Single-player, university-themed Flappy Bird clone)
+•	FR (Mandatory): Players must navigate through a series of university-themed obstacles without colliding to continue playing.
+•	FR (Mandatory): The game will increase in speed by 5% after every 20 obstacles to enhance difficulty.
+•	FR (Mandatory): A scoring system awards one point for each obstacle successfully navigated.
+•	FR (Optional): Character customization allows players to choose from five avatars representing different university faculties, earned randomly by finding them in game. 
+•	FR (Mandatory): The game ends and displays a "game over" message when the player collides with an obstacle.
+•	FR (Mandatory): A real-time leaderboard displays the top 10 scores achieved.
+•	FR (Mandatory): The game must be fully controllable via simple touch inputs—tap to flap.
+•	FR (Optional): The game includes sound effects that correspond to game start, game over, and scoring achievements.
+•	FR (Mandatory): Players can pause and resume the game at any point.
+•	NFR (Mandatory): The game must be compatible with both Android and iOS platforms.
+•	NFR (Mandatory): The total game size will not exceed 10MB.
+•	NFR (Mandatory): The game must handle errors such as slow network conditions by notifying the player of connectivity issues without crashing.
+Roulette (Single-player, virtual gambling game)
+•	FR (Mandatory): The game will simulate a roulette wheel with numbers 0-36, where the player places bets on where the ball will land.
+•	FR (Mandatory): The system automatically calculates winnings based on the odds of the bet placed.
+•	FR (Optional): Players can choose to place multiple types of bets (e.g., single number, red or black, odd or even).
+•	FR (Mandatory): The wheel's spin result must be randomly generated for each game.
+•	FR (Optional): Include a tutorial mode that explains the rules and types of bets in roulette.
+•	FR (Mandatory): The game provides immediate feedback on win/lose status after each spin.
+•	FR (Optional): Feature an option to replay the last bet or clear bets to start a new betting scenario.
+•	FR (Mandatory): Players can see their current balance, bets placed, and winnings after each round.
+•	NFR (Mandatory): The game interface must be user-friendly and intuitive, suitable for new players.
+•	NFR (Mandatory): Ensure high-performance animations for the spinning roulette wheel on mobile devices.
+•	NFR (Mandatory): The game should handle cases where the player attempts to bet more than their current balance by prompting a warning message.
+•	NFR (Mandatory): The game must store the player's balance and betting history between sessions securely.
+Wordle Clone (Single-player daily word puzzle)
+•	FR (Mandatory): Present a new five-letter word challenge to the player each day.
+•	FR (Mandatory): Limit player guesses to six per challenge.
+•	FR (Mandatory): Provide color-coded feedback for each guess to indicate the accuracy and placement of letters.
+•	FR (Optional): Allow players to see a history of their past guesses and feedback for each day's challenge.
+•	FR (Optional): Include a leaderboard for daily challenges based on the number of guesses.
+•	FR (Mandatory): The game must inform players of a win or loss after the sixth guess or a correct guess.
+•	FR (Mandatory): Offer an option to play a random past challenge for additional practice.
+•	FR (Optional): Provide adaptive difficulty settings by allowing the selection between four, five, or six-letter words.
+•	FR (Optional): Support multiple languages starting with English.
+•	NFR (Mandatory): The game must be accessible, with features like high-contrast mode and text-to-speech.
+•	NFR (Mandatory): Ensure the total game size does not exceed 10MB.
+•	NFR (Mandatory): The game should handle incorrect or incomplete input gracefully, guiding the player to valid inputs without crashing.
