@@ -1,0 +1,40 @@
+ENUMBER: E00139831
+Kevin Davis
+S-Specific: 
+21 Questions Food Edition 
+1.	The game only allows one user.
+2.	User must write down a food that they would like to eat.
+3.	The game will ask questions to the user.
+4.	After asking a question, the program will guess what food user thought of.
+5.	The program should ask no more than 21 questions.
+6.	If the program guesses correctly, then the user is notified that she/he lost.
+7.	User wins only if computer runs out of questions and guesses incorrectly on all guesses.
+8.	There is a 5-minute time limit.
+9.	After 5 minutes, game ends.
+10.	Game ends if program answers correctly. 
+Flappy Buck
+1.	Has a pixel image of a bird.
+2.	Depicts bird maneuvering through obstacles.
+3.	Bird’s wings move up and down 
+4.	Bird moves across the screen
+5.	Bird is green
+6.	Obstacles are large tunnels 
+7.	Tunnels vary in size.
+8.	There is a 2-minute time limit.
+9.	One User
+10.	If bird collides with tunnel, then game is over. 
+Frogger
+1.	Has a pixel image of a frog
+2.	Depicts frog maneuvering across a road
+3.	Frog is green.
+4.	Obstacles are vehicles
+5.	Vehicles move 
+6.	There’s a 2 minute time limit
+7.	One use
+8.	If frog collides with tunnel, then game is over
+9.	Game includes flies that frogger can eat 
+10.	Once flies are eaten, frogger gains more health points. 
+M-Measurable: Test cases will be ran on all 10 requirements to see if all requirements are filled.
+A-Achievable: There is a total of 5 programmers. Each programmer will be responsible for implementing and testing each requirement.
+R-Relevant: Each requirement is relevant. Resources that will be used are programmers in the C# environment. 
+T: Implementation and test cases are due by October 1st at 5PM.
