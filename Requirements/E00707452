@@ -1,0 +1,37 @@
+Specific Measurable Achievable Relevant and Timely
+Blackjack
+-Must be able to track wins
+-Must have split, dd, hit, stand 
+-Must have a game instructions icon
+-Cards must be etsu themed
+-Must have a bug report feature
+-Must show win rate
+-Must use rng for deck to prevent card counting
+-Can have customizable play area
+-Can have sound effects
+-Can have blackjack handbook page
+
+Battleship
+-Must have a vs ai mode
+-Can have a pass and play mode (if a good way is discovered)
+-May have customizable ships (allow user to select from a few predetermined options)
+-Must have end game summary
+-Must have game instructions page
+-May have grid size options
+-May have explosion sound effects
+-May have score tracker in corner (points per hit)
+-Must have win streak for session displayed
+-Must allow user to name their fleet, (3 letters like arcade game)
+
+
+Whack-a-mole
+-Must have difficulty slider
+-Must be able to pause game
+-May have in game powerups
+-May have customizable moles
+-Must have timed rounds
+-Must have a combo counter
+-must have instructions icon
+-may have custom mallet
+-must have endgame summary (score display and stats)
+-may have soundtrack
