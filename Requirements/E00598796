@@ -1,0 +1,35 @@
+Minesweeper
+-The game should have a grid that is adjustable by size for the map
+-The game should have a leaderboard that contains scores and times 
+-The game should allow you to save your username to be added to the leaderboard
+-It needs to have have a timer at the top to keep score
+-It needs to generate a random number of bombs (somewhere between 10-30% of grid) to place in the grid
+-The game needs to pick a random spot to place these bombs in the grid
+-The game needs to be able to tell the user how many bombs are around a block they have selected
+-The game should end when a player taps on a block that contains a bomb, displaying a "Game Over" message
+-The game should support touch screen interaction to remove blocks
+-The game should have exception handling for the username input
+
+Frogger
+-The game should continuously generate new rows of obstacles as the player progresses forward, with the score increasing for each row crossed
+-The game should allow the player to move the frog in four directions using swipe controls
+-The game should deduct a life whenever the frog collides with a car, and the frog should respawn at the starting position
+-The game should offer at least three difficulty modes that adjust the speed and frequency of obstacles
+-The game should provide different map themes that players can choose from before starting
+-The game should display the current score and remaining lives at the top of the screen
+-The game should save and display the highest score achieved during the current session and 
+-The game should include background music and sound effects that can be toggled on and off
+-The game should allow you to save your username to be added to the leaderboard
+-The game should include bug trophies that can be collected for additional points
+
+BlackJack
+-The game should enable the player to place bets from a predefined starting stack of chips before each hand
+-The game should include a card deck shuffle feature
+-The game should include an AI dealer that follows standard blackjack rules
+-The game should allow the player to hit, stay, double down, or split their hand according to standard blackjack rules
+-The game should allow up to three computer-controlled players to participate
+-The game should display the player’s current balance and remaining chips at the top of the screen
+-The game should end when the player's balance reaches zero, displaying a "Game Over" message
+-The game should save and display the highest final balance on a leaderboard
+-The game should allow the player to save their username to be added to the leaderboard for highest final balance
+-The game should support touch screen interaction
