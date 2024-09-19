@@ -1,0 +1,26 @@
+
+
+Flappy bird 
+1. Players must be able to tap to make the pirate jump 
+2. Must have a “gravity” simulation 
+3. Must have randomly generated obstacles
+4. Must keep score
+5. Must detect when the user hits an obstacle
+6. Must be able to restart after a death
+7. May get harder as the game progresses 
+8. May have sound effects and fun visuals
+9. Must have an ending 
+10. Must be a smooth side-scrolling experience
+
+Food Game
+1. Must show local places
+2. Must have some kind of game aspect, (can lose or win)
+3. Must help user decide on eatery 
+4. Must have some kind of akinator style decision making 
+5. Must be brief 
+6. May have some kind of spinning wheel feature
+7. May have pictures of the locations
+8. May ask what kind of food the user wants 
+9. Must have some way of eliminating certain options upfront 
+10. May have other fun graphics
+
