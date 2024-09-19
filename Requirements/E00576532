@@ -1,0 +1,21 @@
+Blackjack Requirements:
+
+The game will use points for wagering in place of currency.
+
+Players will be able to "leave the table" at any time, finalizing their score for the play session.
+
+The game will simulate multiple decks of cards in the course of gameplay. This is to discourage card counting and similar tactics, as real casinos do.
+
+The game must have an artificial intelligence model that can play dealer hands that are compliant with the standard rules of Blackjack.
+
+The game must follow the standard rules of Blackjack.
+
+The game may have AI players at the table that are capable of playing believable hands.
+
+The game may have simple sprite-based graphics (i.e. card sprites, colored background)
+
+The game must have a lose condition for when a player's points hit zero (0).
+
+The game must allow for the session to be refreshed/restarted at any time.
+
+The game may have simple card animations (drawing, dealing, flipping).
