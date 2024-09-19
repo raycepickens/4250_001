@@ -1,0 +1,16 @@
+For all three games: Ability to save the game state.
+
+Minesweeper:
+- Able to pick levels
+- Ability to add mines
+- Timer displayed
+
+Frogger
+- Fixed number of lives
+- Score mechanic
+- Movement mechanics
+
+Blackjack
+- Able to bet amount of money
+- Options like Hit, Stand, etc.
+- Add bots to play against
