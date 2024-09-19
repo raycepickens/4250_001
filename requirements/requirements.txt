@@ -23,7 +23,7 @@ Game 2) Roulette
   6) prompt user for number
   7) PLay animation to resemble roulette
   8) generate correct number and color
-  9) check if user's matches
+  9) check if user's' matches
   10) Give score points if win
 
 
