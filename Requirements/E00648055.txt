@@ -1,0 +1,35 @@
+Blackjack
+hit/stand system
+friendly, simple UI
+made up currency/points to bet with
+touch control recognition
+leaderboard
+ability to split hands
+dealer AI
+animations to show the game playing out
+logic to ensure the player doesn’t go over 21 and still win
+screen that displays how a game went, how much the player earned/lost and prompts to play again
+
+Tap Tap Hero
+selectable songs - MIDI format could allow for a lot of unique songs in a small game file size
+updating/rotating track list
+simple touch controls
+score tracking/leaderboard
+custom themes
+visual and audio feedback when hitting notes
+post-game screen showing score and how well the player did
+combo system
+multiple difficulties
+ability to miss notes or hit them perfectly depending on when the player taps the screen
+
+Hangman
+simple UI that draws the stickman as players make mistakes and shows the letters that have been guessed
+dictionary of a word bank the game can randomly pull from to get new words
+keyboard so the player can guess letters
+logic to ensure a player doesn’t guess the same letters twice
+multiple difficulties
+score  tracking for players that play multiple games in a row
+hint system
+option to play again after winning/losing a round
+certain amount of lives before the player loses
+display to show correctly guessed letters in sequence of the word
