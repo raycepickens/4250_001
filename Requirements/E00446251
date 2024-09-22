@@ -1,0 +1,35 @@
+BlackJack: 
+ 1. Player Interaction: The game must allow the player to make decisions such as 'Hit,' 'Stand,' and 'Double Down.'
+2. Dealer AI: Implement a dealer that follows standard Blackjack rules (e.g., hits until reaching 17 or higher).
+3. Card Deck: The game must use a standard 52-card deck, shuffled before each round.
+4. Card Values: Aces can count as 1 or 11, face cards (King, Queen, Jack) count as 10.
+5. Player Balance: Players start with a specific amount of money and can place bets before each round.
+ 6. Win/Loss Conditions: The game must determine win, loss, or draw based on Blackjack rules (e.g., closest to 21 without exceeding it).
+7. Multiple Rounds: After each round, the player can choose to play another round or exit the game.
+8. Mechanic: The player or dealer should automatically lose if their card value exceeds 21.
+9. User Interface: The game must display the player's hand, dealer's hand, and the current score at all times.
+10.  Basic Strategy: Implement simple hints for the player, such as when the odds favor hitting or standing.
+
+Guitar Hero : 
+1. Touch Controls: The game must use touch input for tapping notes at the correct time.
+2. Note Tracks: Notes should fall down multiple tracks, with different lanes representing different buttons to press.
+3. Song Integration: The game should be able to load and play songs where notes are synced with the music.
+4. Score Calculation: Score should be calculated based on the player's timing accuracy (perfect, good, miss).
+5. Combo System: Players should be rewarded for consecutive successful notes by increasing their score multiplier
+6.  Game Over: The game should end when a song finishes, displaying the final score and accuracy.
+7. Difficulty Levels: Provide multiple difficulty levels (e.g., Easy, Medium, Hard) that vary the speed and complexity of the notes.
+8.  Visual Feedback: Provide visual feedback for each hit, such as flashing lights or colors when a note is successfully hit or missed.
+9. Pause/Resume Functionality: Allow the player to pause and resume the game without losing their progress.
+10.  Leaderboard: Implement a leaderboard that allows players to compete for high scores on individual songs.
+
+Hangman: (unsure what 3rd game was.. either this or wordle)
+1.  Word Bank: The game should have a predefined set of words chosen randomly for each new round.
+2.  Player Input: Players can input one letter at a time to guess the word.
+3.  Lives System: Players have a limited number of incorrect guesses (e.g., 6 lives) before they lose.
+4.  Letter Display: Correctly guessed letters should be displayed in their correct positions, with blank spaces for unknown letters.
+5.  Incorrect Guesses: Incorrect guesses should be displayed along with the remaining lives.
+6.  Win Condition: The player wins if they correctly guess the word before running out of lives.
+7. Loss Condition: The player loses if they fail to guess the word within the allowed number of incorrect guesses.
+8.  Hint System: Offer a limited-use hint system that provides a clue about the word.
+9.  Restart Option: After a game ends, players can restart the game with a new word.
+10.  Difficulty Levels: Offer multiple difficulty levels that adjust the length or complexity of the words.
