@@ -1,0 +1,38 @@
+Frogger
+
+1. Login for saving scores -MF
+2. Leaderboard -MF
+3. Cross-Comp with phone/computer -OF
+4. Pause-Feature -OF
+5. Randomly Generated Paths -MF
+6. 3 Lives till Gameover -MF
+7. In Color -MF
+8. Friends System -OF
+9. Options to Change Frog Color -ON
+10. Different Music Options -ON
+
+MineSweeper
+
+1. Login For saving scores -MF
+2. Leaderboard -MF
+3. Color Options for boxes and flags -OF
+4. Save-Continue Feature -MF
+5. Randomly Generated Maps -MF
+6. Friends System -OF
+7. Music Options -ON
+8. Difficulty Options -MF
+9. Daily MineSweeper -OF
+10. Race Options with AI/Multiplayer -OF
+
+BlackJack
+
+1. Login for Saving Score/Total Earned _MF
+2. Leaderboards -MF
+3. Color Options for Cards, Chips, and Buttons -OF
+4. Music Options -ON
+5. Playing with others/AI -OF
+6. Friend Features -OF
+7. Shuffle after every round -MF
+8. Animations when flipping cards -OF
+9. Hit and Stay Button -MF
+10. Win-Streak Feature -OF
