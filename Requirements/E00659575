@@ -1,0 +1,40 @@
+Guitar Hero requirements
+1. Game must provide a library of songs
+2. Game must have four difficulties to choose from [easy, medium, hard, expert]
+3. User is able to tap, hold-tap, or swipe notes as they fall on the screen
+4. Game displays users scores based on number of criteria: note streaks, difficulty multiplier, and accuracy
+5. Score based on accuracy is be based on whether user taps, hop-taps, or swipes at the perfect time [at the line]
+6. only 4 notes are available to be pressed on easy & medium difficulty
+7. Easy difficulty  must have the average tempo of 60-90 BPM and a 50% of normal note falling speed
+8. Medium difficulty must have the average tempo of 91-120 BPM, more frequent notes, and a 75 of normal falling speed
+9. Hard difficulty must have the average tempo of 121-150 BPM, very rapid notes and more complex combinations, and 125% over the normal falling speed.
+10. Expert difficulty must have the average tempo of 151-190, a near rapid-consistent frequency of notes,  and 150% over the normal falling speed, with the inclusion of a fifth key the user is introduced to.
+
+Blackjack requirements
+1. The game must allow users to place bets using virtual currency
+2. The game must implement a random number generator to ensure the fairness in the card dealing system.
+3. The game must automatically detect and declare blackjack if the player's initial hand is 21
+4. The game must allow players to perform actions such as: Hit, stand, double-down, split.
+5. The game must keep track of wins and loss and creates a win/loss ratio for display.
+6. The game must provide an option to reset win/loss ratio.
+7. The game's virtual currency are virtual chips that have the value as follows:
+White chip: 1 point
+Red chip: 5 points
+Green chip: 25 points
+Black chip: 100 points
+Purple chip: 500 point
+8. The game must have a timeout feature to automatically fold a player's hand if no action is taken within the timeout clock.
+9. the game must include a booklet for help on how to play blackjack within the initial start screen
+10. The game must allow users to name their player, with up to 10 characters allowed.
+
+Wordle
+1. The game must allow players to guess a five-letter word by entering guesses into a text input field
+2. The game gives feedback for each guess by highlighting correct letters green, misplaced letters as yellow, and incorrect letters as red
+3. The game limits players to a maximum five guesses per game
+4. The game must randomly select a new five-letter word from a predefined dictionary each day
+5. The game must have a count-down to the next word available for display.
+6. The game must have a "leaderboard" based on users total games played, win percentage, and win streak (lose streak too if funny)
+7. The game must use the same word for everybody using the game.  
+8. The game must have a share button to display users results
+9. The game must have instructions on how to play on main title
+10. Ask my team for one last requirement on wordle
