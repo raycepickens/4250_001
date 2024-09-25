@@ -1,0 +1,41 @@
+Requirements
+E00692063
+
+Game 1) Flappy Buc
+  1) There should be a counter that goes up as our buc passes through each "Pass"
+  2) If bucky hits a pass, his boat sinks and the game ends.
+  3) There needs to be a set limit of passes so the game ends after a certain amount.
+  4) Bucky needs to move up a certain distance when the screen is tapped/button is pressed.
+  5) After "jumping" bucky immediately begins falling.
+  6) No matter where a pass is hit from, the game ends when its hit.
+  7) Bucky is constantly moving right.
+  8) Passes should have differently placed passes.
+  9) Animation of bucky paddling his boat should play when he jumps.
+  10) The floor and ceiling should also result in a loss when hit
+
+
+Game 2) Roulette 
+  1) Keep score
+  2) User can "gamble" score on game
+  3) score grows when correct
+  4) score shrinks when not correct
+  5) Prompt user for color
+  6) prompt user for number
+  7) PLay animation to resemble roulette
+  8) generate correct number and color
+  9) check if user's' matches
+  10) Give score points if win
+
+
+Game 3) Wordle
+  1) Needs to be a solution word with 5 letter length
+  2) 5 slots for the user to enter an individual letter in each slot.
+  3) Allow user to enter whatever letter they want in each letter slot.
+  4) Allow the user to submit the letter when they want to.
+  5) check if their answer is a word or not
+  6) If their word is not a real word, do not count that submission.
+  7) If their word is a real word, accept submission.
+  8) Move try up when an answer is submitted
+  9) Display correct letters in green.
+  10) Display incorrect letters in grey
+
