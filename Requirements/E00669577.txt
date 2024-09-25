@@ -1,0 +1,41 @@
+Minesweeper
+· MUST have a user interface
+· MUST receive mouse in put
+· MUST keep track in a grid
+· MUST have a 'bomb'square
+· must allow flag placement
+· must calc.  Proximity to bomb
+· Must have win cond.
+· can use color
+· can be saved
+· Shall store Score as clicks
+
+Frogger
+. Must have obstacies
+· must have UI
+· must take keyboard input
+· Should have a controllable
+character
+· Should scroll up as player
+moves
+· MUST die when touch
+obstacle
+· can save progress
+· may keep score by furthest
+Row reached
+· must be organized into Rows
+for lvls
+· Can be written in PyGame
+
+Blackjack
+· Must know a standard deck
+· MUST have dealer
+· must hit to draw a card
+· must stand to pass
+· Dealer should hit on 16 stand
+on 17
+· must have currency
+· can have 'double Down’ on hit
+· must bet whole Positive numbers
+· can score points as money at end of X number
+rounds
