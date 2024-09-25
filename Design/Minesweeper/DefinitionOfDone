@@ -1,0 +1,7 @@
+What does being done mean?
+-	We have a traceability matrix.
+-	We have an idea of how to code every requirement/feature. 
+-	Map of what is most critical and what needs to be designed first and in what order to design things.
+So, essentially we know what to do, how to code it, and then the order in which to code it.
+
+Starting off by identifying what needs to be done first so that we can then design it first and use its design to influence the design for the additional features.
