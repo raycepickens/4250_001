@@ -1,0 +1,16 @@
+Implementation Notes:
+Slider for grid size.
+Ability to toggle between flags, questions, and regular guesses.
+
+Coding Standard:
+-	Using camelCase for variables. Use PascalCase for Methods, Classes.
+-	Comments before every method explaining what it should do, what it returns, and why we are doing it this way. Initial set of comments to help with coding within the method and extra comments for maintainability. Comments not needed for variables names, but they should be self-documenting with descriptive names. Depending on the IDE used, include XML comments.
+-	Input Validation for clicks outside of the grid that aren’t on other acceptable spots. Input validation for score/time/leaderboard names. Input validation for the size of the grid. 
+-	Specific method for getters and setters.
+-	IDE used is still up for debate.
+
+Source Control:
+-	GitHub Repository
+-	Different branches based on features instead of based on individuals.
+-	Master Repo for production. Each fork has a Dev and Test Branch specifically for testing. 
+-	Sync at the start of the sprint. Sync before ever pushing. Push to own fork main branch before pushing to master repo.
