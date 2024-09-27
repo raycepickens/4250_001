@@ -1,0 +1,27 @@
+Coding Standards
+
+https://google.github.io/styleguide/jsguide.html
+
+*******************************************************************
+
+Unit Testing 
+
+A JavaScript testing framework will be utilized for unit testing. One of the following would be used: (Jest, Mocha, Jasmine, AVA)
+
+*******************************************************************
+
+
+Code Review
+
+We will be applying the principles of the main eight "ilities" to make sure code fulfills each of these in a sufficient manner. (Functionality, Readability, Modularization, Performance, Security, Tests, Error Handling, Code Style)
+
+*******************************************************************
+
+
+Source Control Approach
+
+-- Project will consist of a single Repository with three version branches. The three version branches will consist of Developer -> Quality Assurance (QA) -> and Production / Live. From each of these branches, feature branches will be created and linked to their relevant sprint through naming. 
+
+-- Developers will commit will pull and commit their code twice a day. Once at the beginning of the day, and once at the end of the day. 
+
+-- In the case of a merge conflict, the authors of both units of code will correspond with each other in a code review format. Merge conflicts will be documented or future review if necessary. 
