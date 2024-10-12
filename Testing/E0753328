@@ -1,0 +1,37 @@
+Test Cases
+
+
+Missiles:
+-Test: Missiles launch when right mouse is clocked. 
+-	Happy path: Missile will appear from the bottom center of screen and travel upwards in a vertical path
+-Test: Missile launches when user presses space. 
+	- HP: Missile will appear in the same way as when right mouse is clicked 
+-Test: Exceed missile limit by launching more than 5. 
+	HP: No more than 5 missiles will be permitted, so nothing will happen.
+-Test: missile travels off the screen.
+	HP: That rogue missile is removed from the list of missiles activity on the screen.
+-Test: Test missile speed and direction mechanics by launching several back to back
+	HP: They will all travel up the screen in a consistent manner 
+
+Ships:
+
+-Test: No active ships trigger a new ship launch; test by allowing all ships to be destroyed. 
+	HP: Various different ships will start to appear at a 30% launch rate. 
+-Test: Test that the ship count does not exceed 10 by allowing multiple to launch
+	HP: At max 10 ships will spawn.
+-Test: Ship launches from either screen side. 
+	HP: Ships should change which side they spawn from. 
+
+Destruction: 
+-Test: Launch a missile to hit a ship. 
+	HP: They both disappear and an animation triggers. 
+-Test: Hit count increments when appropriate. 
+	HP: The hit count increases with each hit. 
+
+End: 
+-Test: Game ends after 10 hits. 
+	HP: The game will initiate ending sequence after 10 hits. 
+-Test: Game ends when user hits left mouse, ESC, or inactivity. 
+	HP: The game ends. 
+
+	 
