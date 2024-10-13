@@ -1,0 +1,21 @@
+Potential Test Cases
+in 
+pre condition - action - post condition
+format
+
+game is on - click right mouse button or space bar in a spamming sense - missiles should fire back to back quickly but only 5 at a time
+game is on - no buttons are clicked for 5 minutes - no missiles should be fire and no damage should be done the entire duration and the game ends
+game is on - click any other key other than space or right mouse click - a missile should not fire
+game is on - click space - a missile should fire from the center bottom of the screen
+game is on - right mouse click  - a missile should fire from the center bottom of the screen
+game is on - right mouse click and space - both should register and two missiles are sent out from the bottom center of the screen and only one "hit" is recorded if they 
+          land on the same ship but two if they land on different ships
+game is on - send missile 0-6 times in a row - should send out that many missiles from the bottom center of the screen until it reaches the max of 5 on the screen, all maintaining the same speed
+game is on - send missile off screen - missile should be removed/ deactivated
+game is on - send a missile into contact with a ship - a collision/ hit is detected and recorded,the "hit count" is incremented by one, an explosion is displayed, the ship is removed
+game is on with one last ship active/ displayed on screen - a missile is sent into the remaining ship and makes contact - a collision/ hit is detected and 
+          recorded, an explosion is displayed, the ship is removed, a "ship launch" is activated with no more than 10 ships on the screen
+game is on with a "hit" count of 9 - a missile is sent out and comes in contact with a ship - a collision/ hit is detected and 
+          recorded, an explosion is displayed, the ship is removed, the game ends
+the game is on - the left mouse button is clicked - the game ends
+the game is on - the esc button is clicked - the game ends
